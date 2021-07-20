@@ -2,7 +2,7 @@
 
 $server = 'localhost';
 $username = 'root';
-$password = 'Nfdeammd1!';
+$password = '';
 $database = 'blog';
 
 try {
